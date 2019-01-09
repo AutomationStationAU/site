@@ -1,0 +1,4 @@
+baseURL = "http://www.automationstation.com.au"
+languageCode = "en-us"
+title = "Automation Station"
+theme = "agency"
