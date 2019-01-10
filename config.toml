@@ -5,7 +5,7 @@ title = "Automation Station"
 theme = "agency"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-131820474-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -17,9 +17,9 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
-  # email = "your@email.com"
+  name = "Automation Station"
+  description = "Document automation services for law firms, in-house legal teams and other businesses requiring high-quality, consistent documents."
+  email = "contact@automationstation.com.au"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -46,11 +46,11 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "The Agency"
+    brand = "Automation Station"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Services"
-    portfolio = "Portfolio"
+    portfolio = "Showcase"
     about = "About"
     team = "Team"
     contact = "Contact"
@@ -64,6 +64,11 @@ googleAnalytics = ""
     #  url = "http://gohugo.io"
     #  name = "Hugo"
     #  weight = 10
+
+    [[menu.prepend]]
+      url = "http://gohugo.io"
+      name = "Hugo"
+      weight = 10
 
     # postpended links
     [[menu.postpend]]
