@@ -1,5 +1,5 @@
 # Site settings
-baseurl = ""
+baseurl = "https://amazing-snyder-22e93d.netlify.com/"
 languageCode = "en-us"
 title = "Automation Station"
 theme = "agency"
