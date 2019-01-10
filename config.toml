@@ -2,7 +2,7 @@
 baseurl = "http://www.automationstation.com.au"
 languageCode = "en-us"
 title = "Automation Station"
-theme = "hugo-agency-theme"
+theme = "agency"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
