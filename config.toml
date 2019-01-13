@@ -131,7 +131,7 @@ googleAnalytics = "UA-131820474-1"
 
     # About section
   [params.about]
-    enable = true
+    enable = false
     title = "About us"
     subtitle = "Your time where it counts."
     endpoint = "Be part<br>of our<br>story!"
