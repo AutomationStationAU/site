@@ -66,7 +66,7 @@ googleAnalytics = "UA-131820474-1"
     #  weight = 10
 
     [[menu.prepend]]
-      url = "\stuff"
+      url = "http://gohugo.io"
       name = "Stuff"
       weight = 10
 
