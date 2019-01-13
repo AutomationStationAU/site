@@ -67,7 +67,7 @@ googleAnalytics = "UA-131820474-1"
 
     [[menu.prepend]]
       url = "http://gohugo.io"
-      name = "Stuff"
+      name = "Hugo"
       weight = 10
 
     # postpended links
