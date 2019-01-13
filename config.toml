@@ -33,7 +33,7 @@ googleAnalytics = "UA-131820474-1"
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    text = "[Go home](/)"
 
   # Optional piwik tracking
   #[params.analytics.piwik]
@@ -90,7 +90,7 @@ googleAnalytics = "UA-131820474-1"
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    subtitle = "No matter where you are on your automation journey, we can help."
 
     [[params.services.row]]
 
@@ -114,13 +114,13 @@ googleAnalytics = "UA-131820474-1"
 
   # Portfolio section
   [params.portfolio]
-    enable = true
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Portfolio"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "Showcase"
+    subtitle = "Projects we've helped implement."
 
     [params.portfolio.modal]
       client = "Client"
@@ -132,8 +132,8 @@ googleAnalytics = "UA-131820474-1"
     # About section
   [params.about]
     enable = true
-    title = "About"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "About us"
+    subtitle = "Your time where it counts."
     endpoint = "Be part<br>of our<br>story!"
 
     # The events will be listed from the top to the bottom.
