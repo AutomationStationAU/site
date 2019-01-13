@@ -84,7 +84,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     border-color: #d7282d;
     color: #ffffff;
-    background-color: D#d7282d
+    background-color: #d7282d
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
@@ -181,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: D#d7282d
+    color: #d7282d
 .navbar-brand>img {
     height: 50px;
     max-width: 250px;
@@ -245,7 +245,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #ffffff;
-    background-color: D#d7282d
+    background-color: #d7282d
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
