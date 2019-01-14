@@ -101,7 +101,7 @@ googleAnalytics = "UA-131820474-1"
      # url = "#"
 
     [[params.services.row.list]]
-      icon = "file-alt"
+      icon = "fa-file-alt"
       title = "Document Automation"
       description = "From recommending a document automation platform and managing it for you, to simply helping automate a document for a one-off project."
       url = "#"
