@@ -218,7 +218,7 @@ She worked at Pied Piper for years until they went belly up."""
 
   # Client section
     [params.clients_list]
-      enable = true
+      enable = false
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
@@ -309,18 +309,18 @@ She worked at Pied Piper for years until they went belly up."""
     enable = true
     copyright = "Automation Station"
 
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      link = "#"
-      title = "Twitter"
+    # [[params.footer.social]]
+     # icon = "far fa-twitter"
+     # link = "#"
+     # title = "Twitter"
 
     [[params.footer.social]]
-      icon = "fa-facebook"
+      icon = "far fa-facebook"
       link = "https://www.facebook.com/AutomationStation.com.au"
       title = "Facebook"
 
     [[params.footer.social]]
-      icon = "fa-linkedin"
+      icon = "far fa-linkedin"
       link = "https://www.linkedin.com/company/automationstation/"
       title = "LinkedIn"
 
