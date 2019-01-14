@@ -82,7 +82,7 @@ googleAnalytics = "UA-131820474-1"
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Welcome to Automation Station!"
-    subtitle = "We empower law firms, in-house legal teams and other businesses to do what they do best - and use technology to do the rest."
+    subtitle = "Your time on what matters."
     buttonText = "Tell me more"
 
 
@@ -101,7 +101,7 @@ googleAnalytics = "UA-131820474-1"
      # url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-file-signature"
+      icon = "fas fa-file-signature"
       title = "Document Automation"
       description = "From recommending a document automation platform and managing it for you, to simply helping automate a document for a one-off project."
       url = "#"
