@@ -48,7 +48,7 @@ googleAnalytics = "UA-131820474-1"
   [params.navigation]
     brand = "Automation Station"
     # Optional logo as brand stored in img/
-    #logo = "logo.svg"
+    logo = "logo.jpg"
     services = "Services"
     portfolio = "Showcase"
     about = "About"
