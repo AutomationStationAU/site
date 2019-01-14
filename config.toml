@@ -94,22 +94,22 @@ googleAnalytics = "UA-131820474-1"
 
     [[params.services.row]]
 
+    #[[params.services.row.list]]
+     # icon = "fa-robot"
+     # title = "Automation"
+     # description = "Okay"
+     # url = "#"
+
     [[params.services.row.list]]
-      icon = "fa-robot"
-      title = "Automation"
-      description = "Okay"
+      icon = "fa-file-signature"
+      title = "Document Automation"
+      description = "From recommending a document automation platform and managing it for you, to simply helping automate a document for a one-off project."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
-      title = "Responsive Design"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-    [[params.services.row.list]]
-      icon = "fa-lock"
-      title = "Web"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      icon = "fa-sitemap"
+      title = "Business Process Automation"
+      description = "Augment your document automation with custom approval steps and other workflows."
       url = "#"
 
   # Portfolio section
