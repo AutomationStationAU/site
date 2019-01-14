@@ -81,7 +81,7 @@ googleAnalytics = "UA-131820474-1"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome to Automation Station!"
+    title = "Welcome to Automation Station!!"
     subtitle = "Your time on what matters."
     buttonText = "Tell me more"
 
