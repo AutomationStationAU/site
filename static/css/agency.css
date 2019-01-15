@@ -176,14 +176,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #D7282D;
+    color: #FF0000;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #D7282D;
+    color: #00FF00;
 }
 
 .navbar-brand>img {
@@ -209,21 +209,21 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #253042;
+    border-color: #0000FF;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #D7282D;
-    background-color: #D7282D;
+    border-color: #550000;
+    background-color: #005500;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #000055;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #D7282D;
+    background-color: #aa0000;
 }
 
 .navbar-default .nav li a {
@@ -231,25 +231,25 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #00aa00;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #D7282D;
+    color: #0000aa;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
-    background-color: #D7282D;
+    color: #ffff00;
+    background-color: #00ffff;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
-    background-color: #D7282D;
+    color: #ff00ff;
+    background-color: #ffaaaa;
 }
 
 @media(min-width:768px) {
@@ -275,7 +275,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #aaffff;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -286,7 +286,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
@@ -345,7 +345,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 100px 100px;
 }
 
 section h2.section-heading {
