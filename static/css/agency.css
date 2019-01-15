@@ -170,20 +170,24 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    border-color: transparent;
-    background-color: #253042;;
+    border-color: #ffffff;
+    background-color: #ffffff;
+}
+
+.navbar navbar-default navbar-fixed-top{
+    background-color: #252f42
 }
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #FF0000;
+    color: #ffffff;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #00FF00;
+    color: #ffffff;
 }
 
 .navbar-brand>img {
@@ -209,21 +213,21 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #0000FF;
+    border-color: #fff;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #550000;
-    background-color: #005500;
+    border-color: #fff;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #000055;
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #aa0000;
+    background-color: #fff;
 }
 
 .navbar-default .nav li a {
@@ -231,25 +235,25 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #00aa00;
+    color: #252f42;
 }
 
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #0000aa;
+    color: #D7282D;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #ffff00;
-    background-color: #00ffff;
+    color: #fff;
+    background-color: #252f42;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #ff00ff;
-    background-color: #ffaaaa;
+    color: #fff;
+    background-color: #fff;
 }
 
 @media(min-width:768px) {
@@ -275,7 +279,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #aaffff;
+        background-color: #252f42;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -286,7 +290,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
