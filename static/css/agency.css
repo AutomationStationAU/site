@@ -366,7 +366,7 @@ section h3.section-subheading {
 @media(min-width:768px) {
     section {
         padding: 150px 0;
-        background-color: #d2d2de /*!This is the background colour for the 'Services' section*/
+        /*!background-color: #d2d2de /*!This is the background colour for the 'Services' section*/
     }
 }
 
