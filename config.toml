@@ -315,19 +315,21 @@ She worked at Pied Piper for years until they went belly up."""
      # title = "Twitter"
 
     [[params.footer.social]]
-      icon = "far fa-facebook"
+      icon = "fab fa-facebook"
       link = "https://www.facebook.com/AutomationStation.com.au"
       title = "Facebook"
 
     [[params.footer.social]]
-      icon = "far fa-linkedin"
+      icon = "fab fa-linkedin"
       link = "https://www.linkedin.com/company/automationstation/"
       title = "LinkedIn"
 
     [[params.footer.quicklinks]]
+      icon = "fas fa-fingerprint"
       text = "Privacy Policy"
       link = "#"
 
     [[params.footer.quicklinks]]
+      icon = "fas fa-book"
       text = "Terms of Use"
       link = "#"

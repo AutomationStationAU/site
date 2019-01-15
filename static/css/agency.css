@@ -256,7 +256,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #D7282D; /*!This is the navbar background colour (fixed)*/
+        background-color: #fff; /*!This is the navbar background colour (fixed)*/
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -275,7 +275,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #D7282D; /*!This is the navbar background colour (collapsed)*/
+        background-color: #fff; /*!This is the navbar background colour (collapsed)*/
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -366,7 +366,7 @@ section h3.section-subheading {
 @media(min-width:768px) {
     section {
         padding: 150px 0;
-        background-color: #252f42
+        background-color: #d2d2de /*!This is the background colour for the 'Services' section*/
     }
 }
 
@@ -821,6 +821,7 @@ section#contact .text-success {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: #252f42
 }
 
 footer span.copyright {
