@@ -65,17 +65,16 @@ googleAnalytics = "UA-131820474-1"
     #  name = "Hugo"
     #  weight = 10
 
-    [[menu.prepend]]
-      url = "http://gohugo.io"
-      name = "Hugo"
-      weight = 10
+    # [[menu.prepend]]
+     # url = "http://gohugo.io"
+     # name = "Hugo"
+     # weight = 10
 
     # postpended links
-    [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "External link"
-      weight = 10
-
+    # [[menu.postpend]]
+     # url = "http://gohugo.io"
+     # name = "External link"
+     # weight = 10
 
   # Hero section
   [params.hero]
@@ -99,7 +98,7 @@ googleAnalytics = "UA-131820474-1"
       icon = "fas fa-window-restore"
       title = "Platform"
       description = "Puzzled by too many automation platform options? Reluctant to set up and manage yet another system? We can help!"
-      url = "#"
+      url = "/platform"
 
     [[params.services.row.list]]
       icon = "fas fa-file-code"
