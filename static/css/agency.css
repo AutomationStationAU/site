@@ -65,7 +65,7 @@ h6 {
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #252f42;
 }
 
 .btn-primary {
@@ -303,7 +303,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    color: #253042;
+    color: #253f42;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -312,7 +312,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    color: #253042;
+    color: #253f42;
     /*! text-transform: uppercase; */
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;

@@ -96,7 +96,7 @@ googleAnalytics = "UA-131820474-1"
     [[params.services.row.list]]
       # icon = "fas fa-connectdevelop"
       # icon = "fas fa-code"
-      icon = "fas fa-browser"
+      icon = "fas fa-window-restore"
       title = "Platform"
       description = "Puzzled by too many automation platform options? Reluctant to set up and manage yet another system? We can help!"
       url = "#"
