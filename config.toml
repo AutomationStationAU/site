@@ -79,12 +79,10 @@ googleAnalytics = "UA-131820474-1"
 
   # Hero section
   [params.hero]
-    # To change the background image of the hero, replace 'header-bg.jpg' in
-    # the 'static/img' folder.
-    #title = "Welcome to Automation Station!"
-    #subtitle = "Your time on what matters."
+    # To change the background image of the hero, replace 'header-bg.jpg' in the 'static/img' folder.
+    title = "Welcome to Automation Station!"
+    subtitle = "Market leading document automation for everyone."
     buttonText = "Tell me more"
-
 
   # Services section
   [params.services]
@@ -95,22 +93,43 @@ googleAnalytics = "UA-131820474-1"
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fas fa-file-alt"
-      title = "Document automation"
-      description = "From recommending a document automation platform and managing it for you, to automating just one document  a document for a one-off project."
+      # icon = "fas fa-connectdevelop"
+      # icon = "fas fa-browser"
+      icon = "fas fa-code"
+      title = "Platform"
+      description = "Confused about choosing a document automation platform? Need help setting one up and managing it for your organisation? We can help!"
       url = "#"
 
     [[params.services.row.list]]
-      icon = "far fa-sitemap"
-      title = "Workflow automation"
-      description = "Automation is more than documents. Get approval steps and other workflows integrated right into  systems."
+      icon = "fas fa-file-code"
+      title = "Automation"
+      description = "Wishing that your document template would hurry up and code itself? Want to build better forms? We can help!"
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fas fa-sync-alt"
-      title = "Continuous improvement"
-      description = "Automation is more than doing the same things more efficiently. Once automated, we can help you keep making the system better and better!"
+      icon = "fas fa-pen"
+      title = "Content"
+      description = "Need to draft more legal content? We have connections (who can help!)"
       url = "#" 
+
+# These are from when Automation Station was going to focus on automation more generally (e.g. workflow automation), rather than document automation only.
+    # [[params.services.row.list]]
+     # icon = "fas fa-file-alt"
+     # title = "Document automation"
+     # description = "From recommending a document automation platform and managing it for you, to automating just one document  a document for a one-off project."
+     # url = "#"
+
+    # [[params.services.row.list]]
+     # icon = "far fa-sitemap"
+     # title = "Workflow automation"
+     # description = "Automation is more than documents. Get approval steps and other workflows integrated right into  systems."
+     # url = "#"
+
+    # [[params.services.row.list]]
+     # icon = "fas fa-sync-alt"
+     # title = "Continuous improvement"
+     # description = "Automation is more than doing the same things more efficiently. Once automated, we can help you keep making the system better and better!"
+     # url = "#" 
 
   # Portfolio section
   [params.portfolio]
