@@ -97,19 +97,19 @@ googleAnalytics = "UA-131820474-1"
       # icon = "fas fa-code"
       icon = "fas fa-window-restore"
       title = "Platform"
-      description = "Puzzled by too many automation platform options? Reluctant to set up and manage yet another system? We can help!"
+      description = "Too many automation platform choices? Don't want another system to set up and manage?<br>We can help!"
       url = "/services/platform"
 
     [[params.services.row.list]]
       icon = "fas fa-file-code"
       title = "Automation"
-      description = "Wishing that your document template would hurry up and code itself? Want to build better forms? We can help!"
+      description = "Wishing that your document template would code itself? Want to build better forms?<br>We can help!"
       url = "services/automation"
 
     [[params.services.row.list]]
       icon = "fas fa-pen"
       title = "Content"
-      description = "Not so sure about that wording? Need better legal content? We have connections (who can help!)"
+      description = "Not so sure about that wording? Need better legal content? We have connections<br>(who can help!)"
       url = "services/content"
 
 # These are from when Automation Station was going to focus on automation more generally (e.g. workflow automation), rather than document automation only.
