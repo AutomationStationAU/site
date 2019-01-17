@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -67,6 +67,10 @@ h6 {
 .bg-darkest-gray {
     background-color: #252f42;
 }
+
+.bg-dark-blue {
+    background-color: #252f42;
+} 
 
 .btn-primary {
     border-color: #D7282D;
@@ -213,8 +217,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fff;
-    background-color: #fff;
+    border-color: #e74c3c;
+    background-color: #D7282D;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -750,8 +754,8 @@ aside .heading {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-color: rgb(67, 110, 92);
+    background-image: none;
     background-position: center;
     background-repeat: no-repeat;
 }

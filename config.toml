@@ -80,7 +80,7 @@ googleAnalytics = "UA-131820474-1"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in the 'static/img' folder.
     title = "Welcome to Automation Station!"
-    subtitle = "Market leading document automation for everyone."
+    subtitle = "Making professional document automation available to everyone."
     buttonText = "Tell me more"
 
   # Services section
@@ -110,7 +110,7 @@ googleAnalytics = "UA-131820474-1"
       icon = "fas fa-pen"
       title = "Content"
       description = "Not so sure about that wording? Need better legal content? We have connections (who can help!)"
-      url = "services/content" 
+      url = "services/content"
 
 # These are from when Automation Station was going to focus on automation more generally (e.g. workflow automation), rather than document automation only.
     # [[params.services.row.list]]
@@ -264,11 +264,11 @@ She worked at Pied Piper for years until they went belly up."""
 
   # Contact section
   [params.contact]
-    enable = false
+    enable = true
     title = "Contact us"
     subtitle  = "Lorem ipsum dolor sit amet consectetur."
-    buttonText = "Send message"
-    netlify = true
+    # buttonText = "Send message"
+    # netlify = true
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -288,31 +288,31 @@ She worked at Pied Piper for years until they went belly up."""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    # email = "your@email.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
     #error = "Message could not be send. Please contact us at mail@example.com instead."
 
-    [params.contact.captcha]
+    # [params.contact.captcha]
       # sitekey = ""
 
     # 'warning' defines error messages for invalid inputs
-    [params.contact.form.name]
-      text = "Your Name *"
-      warning = "Please enter your name."
+    # [params.contact.form.name]
+     # text = "Your Name *"
+     # warning = "Please enter your name."
 
-    [params.contact.form.email]
-      text = "Your Email *"
-      warning = "Please enter your email address."
+    # [params.contact.form.email]
+     # text = "Your Email *"
+     # warning = "Please enter your email address."
 
-    [params.contact.form.phone]
-      text = "Your Phone *"
-      warning = "Please enter your phone number."
+    # [params.contact.form.phone]
+     # text = "Your Phone *"
+     # warning = "Please enter your phone number."
 
-    [params.contact.form.message]
-      text = "Your Message *"
-      warning = "Please enter a message."
+    # [params.contact.form.message]
+     # text = "Your Message *"
+     # warning = "Please enter a message."
 
       # Add optional form fields to identify contact forms
       #[[params.contact.form.hidden]]

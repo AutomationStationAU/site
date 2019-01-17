@@ -5,4 +5,4 @@ draft: false
 ---
 
 #Platform
-Hello
+There are lots of platforms.
