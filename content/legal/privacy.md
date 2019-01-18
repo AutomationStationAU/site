@@ -3,124 +3,92 @@ title: "Privacy Policy"
 date: 2019-01-17T09:09:08+11:00
 draft: false
 type: legal
-subtitle: "*Effective date: January 14, 2019*"
+subtitle: "Last update: 18 January 2019"
 ---
 
-*Automation Station Pty Ltd (ABN 65 630 299 197)* ('*us*', '*we*', or '*our*') operates the https://www.automationstation.com.au website (the '*Service*').
+This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through our website (**Site**). In this Privacy Policy **we**, **us** or **our** means **Automation Station Pty Ltd (ABN 65 630 299 197*)*.
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
+# Personal information
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.automationstation.com.au
+The types of personal information we may collect about you include:
 
-#Information Collection And Use
+- your name
+- your contact details, including email address, mailing address, street address and/or telephone number
+- your browser session and geo-location data, device and network information, statistics on page views and sessions, acquisition sources, search queries and/or browsing behaviour
+- information about your access and use of our Site, including through the use of Internet cookies, your communications with our Site, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider
+- additional personal information that you provide to us, directly or indirectly, through your use of our Site, associated applications, associated social media platforms and/or accounts from which you permit us to collect information
+- any other personal information requested by us and/or provided by you or a third party
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+We may collect these types of personal information directly from you or from third parties.
 
-##Types of Data Collected
+# Collection and use of personal information
 
-###Personal Data
+We may collect, hold, use and disclose personal information for the following purposes:
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ('*Personal Data*'). Personally identifiable information may include, but is not limited to:
+- to enable you to access and use our Site, associated applications and associated social media platforms
+- to contact and communicate with you
+- for analytics, market research and business development, including to operate and improve our Site, associated applications and associated social media platforms
+- to comply with our legal obligations and resolve any disputes that we may have
 
-- Address, State, Province, ZIP/Postal code, City
-- Cookies and Usage Data
+# Disclosure of personal information to third parties
 
-###Usage Data
+We may disclose personal information to:
 
-We may also collect information how the Service is accessed and used ('*Usage Data*'). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+- third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators
+- our employees, contractors and/or related entities
+- anyone to whom our business or assets (or any part of them) are, or may (in good faith) be, transferred
+- credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you
+- courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights
+- third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. This may include parties located, or that store data, outside of Australia
+- third parties to collect and process data, such as Google Analytics or other relevant businesses. This may include parties that store data outside of Australia
 
-###Tracking & Cookies Data
+By providing us with personal information, you acknowledge that some third parties may not be regulated by the Privacy Act and the Australian Privacy Principles in the Privacy Act and if any third party engages in any act or practice that contravenes the Australian Privacy Principles, it would not be accountable under the Privacy Act and you will not be able to seek redress under the Privacy Act.
 
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+# Your rights and controlling your personal information
 
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+## Choice and consent
+Please read this Privacy Policy carefully. By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this Privacy Policy. You do not have to provide personal information to us, however, if you do not, it may affect your use of this Site or the products and/or services offered on or through it.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+## Information from third parties
+If we receive personal information about you from a third party, we will protect it as set out in this Privacy Policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person's consent to provide the personal information to us.
 
-####Examples of Cookies we use:
+## Restrict
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below.
 
-- Session Cookies. We use Session Cookies to operate our Service.
-- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- Security Cookies. We use Security Cookies for security purposes.
+## Access
+You may request details of the personal information that we hold about you. An administrative fee may be payable for the provision of such information.
+ 
+## Correction
+If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
 
-#Use of Data
+## Complaints
+If you wish to make a complaint about how we have handled your personal information, please contact us using the details below and provide us with full details of the complaint. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint
 
-We use the collected data for various purposes:
+## Unsubscribe
+To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
 
-- To provide and maintain the Service
-- To notify you about changes to our Service
-- To allow you to participate in interactive features of our Service when you choose to do so
-- To provide customer care and support
-- To provide analysis or valuable information so that we can improve the Service
-- To monitor the usage of the Service
-- To detect, prevent and address technical issues
+# Storage and security
 
-#Transfer Of Data
+We are committed to ensuring that the personal information we collect is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the personal information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+We cannot guarantee the security of any information that is transmitted to or by us over the Internet. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that the personal information we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-If you are located outside Australia and choose to provide information to us, please note that we transfer the data, including Personal Data, to Australia and process it there.
+# Cookies and web beacons
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+We may use cookies on our Site from time to time. Cookies are text files placed in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information. However, they do allow third parties, such as Google and Facebook, to cause our advertisements to appear on your social media and online media feeds as part of our retargeting campaigns. If and when you choose to provide our Site with personal information, this information may be linked to the data stored in the cookie.
 
-We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+We may use web beacons on our Site from time to time. Web beacons (also known as Clear GIFs) are small pieces of code placed on a web page to monitor the visitor's behaviour and collect data about the visitor's viewing of a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-#Disclosure Of Data
+# Links to other websites
+Our Site may contain links to other websites. We do not have any control over those websites and we are not responsible for the protection and privacy of any personal information which you provide whilst visiting those websites. Those websites are not governed by this Privacy Policy.
 
-##Legal Requirements
+# Amendments
 
-We may disclose your Personal Data in the good faith belief that such action is necessary to:
+We may, at any time and at our discretion, vary this Privacy Policy by publishing the amended Privacy Policy on our Site. We recommend you check our Site regularly to ensure you are aware of our current Privacy Policy.
 
-- To comply with a legal obligation
-- To protect and defend our rights or property
-- To prevent or investigate possible wrongdoing in connection with the Service
-- To protect the personal safety of users of the Service or the public
-- To protect against legal liability
+# Contact 
 
-#Security Of Data
+**For any questions or notices, please contact our Privacy Officer at:**
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
-
-##Service Providers
-
-We may employ third party companies and individuals to facilitate our Service ('*Service Providers*'), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-##Analytics
-
-We may use third-party Service Providers to monitor and analyze the use of our Service.
-
-###Google Analytics
-
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
-
-You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
-
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
-
-#Links To Other Sites
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-#Children's Privacy
-
-Our Service does not address anyone under the age of 18 ('*Children*').
-
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
-
-#Changes To This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-#Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-- By email: privacy@automationstation.com.au
-- By visiting this page on our website: [https://www.automationstation.com.au/legal/privacy](https://www.automationstation.com.au/legal/privacy)
-- By phone number: 1300 69 00 99
+- Automation Station Pty Ltd ABN 65 630 299 197
+- Email: contact@automationstation.com.au
