@@ -72,6 +72,10 @@ h6 {
     background-color: #252f42;
 } 
 
+.bg-light-blue {
+    background-color: #4c546a;
+} 
+
 .btn-primary {
     border-color: #D7282D;
     text-transform: uppercase;
@@ -772,7 +776,7 @@ section#contact {
     /*background-image: none;*/
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 section#contact .section-heading {
@@ -1019,4 +1023,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #D7282D;
+}
+
+section#platforms img {
+    width: 175px;
 }

@@ -112,25 +112,6 @@ googleAnalytics = "UA-131820474-1"
       description = "Not so sure about that wording? Need better legal content? We have connections<br>(who can help!)"
       url = "services/content"
 
-# These are from when Automation Station was going to focus on automation more generally (e.g. workflow automation), rather than document automation only.
-    # [[params.services.row.list]]
-     # icon = "fas fa-file-alt"
-     # title = "Document automation"
-     # description = "From recommending a document automation platform and managing it for you, to automating just one document  a document for a one-off project."
-     # url = "#"
-
-    # [[params.services.row.list]]
-     # icon = "far fa-sitemap"
-     # title = "Workflow automation"
-     # description = "Automation is more than documents. Get approval steps and other workflows integrated right into  systems."
-     # url = "#"
-
-    # [[params.services.row.list]]
-     # icon = "fas fa-sync-alt"
-     # title = "Continuous improvement"
-     # description = "Automation is more than doing the same things more efficiently. Once automated, we can help you keep making the system better and better!"
-     # url = "#" 
-
   # Portfolio section
   [params.portfolio]
     enable = false

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+  {{ partial "head.html" . }}
+
+  <body id="page-top" class="index">
+    {{ partial "nav.html" . }}
+
+    <section id="content">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Content</h2>
+              <h3 class="section-subheading text-muted">f</h3>
+              
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="content-services" class="bg-light-blue">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Content services</h2>
+              <h3 class="section-subheading text-muted">fff</h3>
+            </div>
+          </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fas fa-book fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">Source quality content</h4>
+                  <p class="text-muted">fff</p>
+                </div>
+                <div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fas fa-check-double fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">Make your content automation ready</h4>
+                  <p class="text-muted">continu</p>
+                </div>
+                <div class="col-md-4">
+                  <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fas fa-sync-alt fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4 class="service-heading">Continuous improvement</h4>
+                  <p class="text-muted">Favourite part of document automation </p>
+                </div>
+            </div>
+        </div>
+      </section>
+
+
+  
+      
+
+    {{ if .Site.Params.footer.enable }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+
+    {{ partial "js.html" . }}
+  </body>
+</html>
