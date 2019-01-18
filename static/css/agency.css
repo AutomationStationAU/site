@@ -835,6 +835,27 @@ section#contact .text-success {
     color: #ffffff;
 }
 
+iframe {
+    margin: 0;
+    padding: 0;
+    border: none;
+    width: value;
+    height: value;
+}
+
+iframe#ZFFrame {
+    width: 100%;
+    min-height: 640px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 4px 4px 14px #000;
+    -webkit-box-shadow: 4px 4px 14px #000;
+    box-shadow: 4px 4px 14px #000;
+    }
+
 footer {
     padding: 25px 0;
     text-align: center;
