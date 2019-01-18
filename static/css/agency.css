@@ -767,14 +767,16 @@ aside .heading {
 }
 
 section#contact {
-    background-color: #d2d2dc;
-    background-image: none;
+    background-color: #485570;
+    background-image: url(../img/map-image.png);
+    /*background-image: none;*/
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 section#contact .section-heading {
-    color: #000;
+    color: #fff;
 }
 
 section#contact .form-group {
