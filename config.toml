@@ -87,7 +87,7 @@ googleAnalytics = "UA-131820474-1"
   [params.services]
     enable = true
     title = "Services"
-    subtitle = "Everything you need to make your document automation project a success."
+    subtitle = "Everything you need to make your document automation project a success. We specialise in automating legal documents for law firms, in-house legal teams and other businesses requiring high-quality, consistent documents."
     # subtitle = "No matter where you are on your automation journey, we can help."
 
     [[params.services.row]]
@@ -109,7 +109,7 @@ googleAnalytics = "UA-131820474-1"
     [[params.services.row.list]]
       icon = "fas fa-pen"
       title = "Content"
-      description = "Not so sure about that wording? Need better legal content? We have connections<br>(who can help!)"
+      description = "Not so sure about that wording? Need better legal content? We have connections...<br>(who can help!)"
       url = "services/content"
 
   # Portfolio section
@@ -133,7 +133,7 @@ googleAnalytics = "UA-131820474-1"
   [params.about]
     enable = true
     title = "About us"
-    subtitle = "We make developing high-quality automated legal documents accessible to everyone."
+    subtitle = "Our mission is to make professional document automation available to everyone."
     #endpoint = "Be part<br>of our<br>story!"
 
   # Team section

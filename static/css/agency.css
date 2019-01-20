@@ -42,7 +42,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #D7282D;
+    color: #e74c3c;
 }
 
 h1,
@@ -90,9 +90,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #D7282D;
+    border-color: #e74c3c;
     color: #fff;
-    background-color: #D7282D;
+    background-color: #e74c3c;
 }
 
 .btn-primary:active,
@@ -217,7 +217,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: #fff;
+    border-color: #D7282D;
 }
 
 .navbar-default .navbar-toggle {
@@ -231,7 +231,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fff;
+    background-color: #4a556f;
+    border-color: #4a556f;
 }
 
 .navbar-default .nav li a {
@@ -250,13 +251,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #4a556f;
     background-color: #252f42;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #4a556f;
     background-color: #fff;
 }
 
@@ -394,6 +395,24 @@ section#about .section-heading {
 
 section#about p {
     color: #d2d2de;
+    font-size: 16px;
+}
+
+section#about .col-lg-10 {
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+	-moz-column-count:    2; /* Firefox */
+	column-count:         2;
+  	-webkit-column-gap:   20px; /* Chrome, Safari, Opera */ 
+	-moz-column-gap:      20px; /* Firefox */
+	column-gap:           20px;
+	column-rule-color: #ccc; /* Optional */
+	column-rule-style:solid; /* Optional */
+	column-rule-width: 1px; /* Optional */
+	text-align: justify; /* Optional */
+}
+
+section#about .text-muted {
+    color: #fff
 }
 
 #portfolio .portfolio-item {
@@ -790,7 +809,7 @@ section#contact p {
 
 section#contact a {
     color: #fff;
-    font-size: 28px;
+    font-size: 20px;
 }
 
 section#contact .form-group {
@@ -1027,4 +1046,45 @@ body {
 
 section#platforms img {
     width: 175px;
+}
+
+section#platform-services p,
+section#automation-services p,
+section#content-services p {
+    color: #bbc1d2;
+}
+
+section#platform-services h2,
+section#automation-services h2,
+section#content-services h2 {
+    color: #fff;
+}
+
+section#platform-services h3,
+section#automation-services h3,
+section#content-services h3 {
+    color: #bbc1d2;
+}
+
+section#platform-services h4,
+section#automation-services h4,
+section#content-services h4 {
+    color: #fff;
+}
+
+section#platform-services a,
+section#automation-services a,
+section#content-services a {
+    color: #fff;
+}
+
+#legal p,
+#legal li {
+    font-size: 12px;
+}
+
+#legal h1,
+#legal h2,
+#legal h3 {
+    font-size: 14px;
 }

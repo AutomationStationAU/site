@@ -1,5 +1,6 @@
 ---
 title: "Terms of use"
+subtitle: "Last updated: 21 January 2019"
 date: 2019-01-17T09:09:08+11:00
 draft: false
 type: legal
@@ -35,7 +36,7 @@ Our Site is for your personal, non-commercial use only. You must not use our Sit
 # Information
 The Content is not comprehensive and is for general information purposes only. It does not take into account your specific needs, objectives or circumstances, and it is not advice. While we use reasonable attempts to ensure the accuracy and completeness of the Content, we make no representation or warranty in relation to it, to the maximum extent permitted by law. 
 
-#Intellectual Property rights
+# Intellectual Property rights
 Unless otherwise indicated, we own or licence all rights, title and interest (including intellectual property rights) in our Site and all of the Content. Your use of our Site and your use of and access to any Content does not grant or transfer to you any rights, title or interest in relation to our Site or the Content. You must not: 
 
 - copy or use, in whole or in part, any Content
@@ -87,4 +88,4 @@ Our Site may be accessed throughout Australia and overseas. We make no represent
 
 # Contact
 
-**For any questions and notices, please contact us at [contact@automationstation.com.au](contact@automationstation.com.au)
+**For any questions and notices, please contact us at [contact@automationstation.com.au](contact@automationstation.com.au).**
