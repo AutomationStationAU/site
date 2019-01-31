@@ -891,6 +891,12 @@ iframe#ZFFrame {
     box-shadow: 4px 4px 14px #000;
     }
 
+    iframe#DemoFormFrame {
+        width: 100%;
+        min-height: 640px
+
+        }    
+
 footer {
     padding: 25px 0;
     text-align: center;
