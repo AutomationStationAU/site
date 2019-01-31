@@ -893,8 +893,8 @@ iframe#ZFFrame {
 
     iframe#DemoFormFrame {
         width: 100%;
-        min-height: 640px
-
+        min-height: 640px;
+        overflow: auto;
         }    
 
 footer {
