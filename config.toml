@@ -224,7 +224,7 @@ She worked at Pied Piper for years until they went belly up."""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Automation Station Pty Ltd (ABN 65 630 299 197)"
+    copyright = "Automation Station (ABN 65 630 299 197)"
 
     # [[params.footer.social]]
      # icon = "far fa-twitter"

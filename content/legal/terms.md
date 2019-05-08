@@ -6,7 +6,7 @@ draft: false
 type: legal
 ---
 
-This website (**Site**) is operated by **Automation Station Pty Ltd (ABN 65 630 299 197**) (**we**, **our** or **us**). It is available at: [www.automationstation.com.au](www.automationstation.com.au) and may be available through other addresses or channels.
+This website (**Site**) is operated by **Automation Station (ABN 65 630 299 197**) (**we**, **our** or **us**). It is available at: [www.automationstation.com.au](www.automationstation.com.au) and may be available through other addresses or channels.
 
 # Consent
 By accessing and/or using our Site, you agree to these terms of use (**Terms**). Please read these Terms carefully and immediately cease using our Site if you do not agree to them. 

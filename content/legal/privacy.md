@@ -6,7 +6,7 @@ type: legal
 subtitle: "Last updated: 21 January 2019"
 ---
 
-This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through our website (**Site**). In this Privacy Policy **we**, **us** or **our** means **Automation Station Pty Ltd (ABN 65 630 299 197)**.
+This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through our website (**Site**). In this Privacy Policy **we**, **us** or **our** means **Automation Station (ABN 65 630 299 197)**.
 
 # Personal information
 
@@ -90,5 +90,5 @@ We may, at any time and at our discretion, vary this Privacy Policy by publishin
 
 **For any questions or notices, please contact our Privacy Officer at:**
 
-- Automation Station Pty Ltd (ABN 65 630 299 197)
+- Automation Station (ABN 65 630 299 197)
 - Email: <a href="mailto:contact@automationstation.com.au">contact@automationstation.com.au</a>
